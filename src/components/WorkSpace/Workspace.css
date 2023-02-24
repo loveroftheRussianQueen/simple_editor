@@ -1,0 +1,16 @@
+.workspace {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 70%;
+  min-height: 100vh;
+  background-color: rgb(148, 138, 138);
+  padding-bottom: 20px;
+}
+
+.title {
+  color: #fff;
+  font-size: 36px;
+}

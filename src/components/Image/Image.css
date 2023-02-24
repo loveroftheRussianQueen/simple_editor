@@ -1,0 +1,12 @@
+.wrapper {
+  position: relative;
+  height: 300px;
+  width: 300px;
+  margin: 0;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
